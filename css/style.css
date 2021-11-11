@@ -1,0 +1,99 @@
+.body{
+    width: 100%;
+}
+main{
+    margin-bottom: 30px;
+}
+.main-content{
+    margin-top: 20px;
+}
+.li1{
+    color: white;
+}
+.main-education{
+    color: white;
+    margin-top: 30px;
+}
+.image1-education{
+    width: 100%;
+}
+.image2-education{
+    width: 100%;
+}
+.image-education{
+    padding: 0;
+}
+.relative{
+    padding: 0;
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+
+.main-lastnews{
+    margin-top: 20px;
+}
+.sen-messenger{
+    margin: 15px 0 15px 0
+}
+.image-map{
+    width: 100;
+}
+.main-lastnews{
+    width: 100;
+}
+.footer{
+    background-color: black;
+    color: white;;
+}
+.main-contact{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.input1{
+    width: 90%;
+}
+
+
+
+
+.ourbusiness-image2{
+    padding: 0;
+}
+
+.news-main{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact-input{
+    margin-bottom: 10px;
+    width: 100%;
+    height: 40px;
+}
+.contact-main{
+    margin: auto;
+}
+
+
+.news-aside{
+    margin-top: 20px;
+}
+
+
+.contact-senmessenger{
+    position: absolute;
+    background-color: rgb(240, 243, 33); 
+    color: white;
+    border-radius: 5px;
+    border: none; 
+    width: 150px; 
+    height: 50px;
+    
+    right: 15px;
+}
+.contact-senmessenger1{
+    margin: 10px 0 10px 0;
+    position:relative;
+    height: 50px;
+}

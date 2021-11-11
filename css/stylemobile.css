@@ -1,0 +1,93 @@
+@media screen and (max-width:768px){
+    .logo{
+        font-size: 30px;
+        text-align: center;
+    }
+    .li1{
+        font-size: 10px;
+    }
+    .search{
+        right: 0px!important;
+        position: absolute;
+    }
+    .main{
+        margin-top: 10px;
+    }
+    .image2-education{
+        width: 100%;
+        height: 500px;
+    }
+    .input1{
+        width: 100%;
+        margin: 10px 10px 5px 0;
+    }
+    .input2{
+        width: 100%;
+        height: 200px;
+        margin-top: 15px;
+    }
+    .sen-messenger{
+        
+        height: 50px;
+        width: 150px;
+    }
+    .main-lastnews{
+        width: 97%;
+        padding-left: 20px;
+    }
+    .icon1-education{
+        left: 20px;
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        top: 50px;
+    }
+    .icon2-education{
+        left: 20px;
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        top: 140px;
+    }
+    .absolute{
+        left: 65px;
+    }
+    .absolute1{
+        top: 30px;
+    }
+    .absolute2{
+        top: 45px;
+    }
+    .absolute3{
+        top: 70px;
+    }
+    .absolute4{
+        top: 120px;
+    }
+    .absolute5{
+        top: 150px;
+    }
+    .search{
+        right: 10px;
+        position: absolute;
+    }
+    nav{
+        position: relative;
+    }
+    .map{
+        padding-left: 50px;
+        height: 200px;
+    }
+
+    .ourbusiness-div1{
+        width: 50px;
+        height: 4px;
+    }
+
+    .news-aside{
+        margin-top: 60px;
+    }
+}
+    

@@ -1,0 +1,117 @@
+@media screen and (min-width:768px) and (max-width:992px){
+    .logo{
+        width: 25%;
+        font-size: 25px;
+        text-align: center;
+    }
+    .li{
+        padding-left: 30px;   
+    }
+    .li1{
+        font-size: 13px;
+    }
+    .main-about-us{
+        font-size: 25px;
+        padding-top: 30px;
+        width: 95%;
+        margin: auto;
+    }
+    .image1-education{
+        width: 100%!important;
+    }
+    .icon1-education{
+        left: 15px;
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        top: 100px;
+    }
+    .icon2-education{
+        left: 15px;
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        top: 300px;
+    }
+    .image2-education{
+        width: 1024px;
+        height: 300px;
+    }
+    .search{
+        right: 10px;
+        position: absolute;
+    }
+    nav{
+        position: relative;
+    }
+    .icon1-education{
+        left: 20px;
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        top: 120px;
+    }
+    .icon2-education{
+        left: 20px;
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        top: 240px;
+    }
+    .absolute{
+        font-size: 18px;
+        left: 85px;
+    }
+    .absolute1{
+        top: 70px;
+    }
+    .absolute2{
+        top: 110px;
+    }
+    .absolute3{
+        top: 140px;
+    }
+    .absolute4{
+        top: 250px;
+    }
+    .absolute5{
+        top: 280px;
+    }
+    .input1{
+        margin: 15px 10px 5px 0;
+    }
+    .input2{
+        width: 100%;
+        height: 200px;
+        margin-top: 15px;
+    }
+    .sen-messenger1{
+        padding-left: 135px;
+        margin: 15px 0 15px 0;
+    }
+    .sen-messenger{
+        font-size: 18px;
+        margin-top: 20px;
+        margin: auto;
+        width: 200px;
+        height: 50px;
+    }
+    .image-map{
+        height: 150px!important;
+    }
+
+
+
+    .ourbusiness-div1{
+        width: 50px;
+        height: 4px;
+    }
+
+    .about-us-lienhe{
+        height: 40px;
+    }
+}
